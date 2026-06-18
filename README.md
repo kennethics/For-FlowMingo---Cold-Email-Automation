@@ -84,7 +84,7 @@ Wait & Continue
 
 ## Download
 
-[Flowmingo AI Cold Email Automation (1).json](./Flowmingo%20AI%20Cold%20Email%20Automation.json)
+Flowmingo AI Cold Email Automation (1).json https://github.com/kennethics/For-FlowMingo---Cold-Email-Automation/blob/main/Flowmingo%20AI%20Cold%20Email%20Automation%20(1).json 
 
 ---
 
